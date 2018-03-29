@@ -13,6 +13,8 @@ Included in the map is a variety of comment sections regarding the trips. This i
 
 <br> 
 
+> # [Link to Interactive Choropleth Map](https://nbviewer.jupyter.org/github/Bashkeel/Wanderlust/blob/master/Choropleth.ipynb)
+
 ### Static Snapshot of the Interactive Map
 ![](Example%20Picture.png)
 
